@@ -1,0 +1,16 @@
+body{
+    background: #83a4d4;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #b6fbff, #83a4d4);  /* Chrome 10-25, Safari 5.1-6 */
+  
+}
+
+.title{
+    font-family: 'Lobster', cursive; 
+    font-size: 500% ;
+
+}
+
+.done{
+    text-decoration: line-through;
+    color: #cfcfcf;
+}
